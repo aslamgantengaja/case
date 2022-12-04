@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285172446692']
-global.ownernomer = "6285172446692"
-global.premium = ['6285172446692']
+global.owner = ['6285780589674']
+global.ownernomer = "6285780589674"
+global.premium = ['6285780589674']
 global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
+global.author = 'Sengboy-Bot'
 global.sessionName = 'session'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -34,8 +34,8 @@ global.sp = ''
 // Setting Mess
 global.mess = {
     success: '✅Selesai',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
+    admin: 'Fitur Khusus Atmin Group!',
+    botAdmin: 'Bot Harus Menjadi Atmin Terlebih Dahulu!',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
     owner: 'Fitur Khusus Owner Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
@@ -59,10 +59,10 @@ global.thumb = fs.readFileSync('./media/image/papah.jpg')
 global.faall = fs.readFileSync('./media/image/menu.jpg')
 
 // Url
-global.mygit = 'https://github.com/FahriAdison'
-global.myyt = 'https://bit.ly/Papah-Chan'
+global.mygit = 'https://github.com/aslamgantengaja'
+global.myyt = 'https://bit.ly/Aslm-kun'
 global.myytv = ''
-global.mygc = ""
+global.mygc = "https://chat.whatsapp.com/GDCYETOuPqRLEdIZK2XOWN"
 
 // Engak Ngaruh, Belum Kepasang
 global.botname = 'SAD BOT'
